@@ -12,3 +12,9 @@ git commit -m "Added Cheat Sheet" GitCheatSheet.txt
 
 To push your chnages
 git push -u origin main 
+
+To check status of the files in the git folder
+git status
+
+To start git in a folder/repo
+git init
