@@ -1,0 +1,14 @@
+To clone a remote server(Github) to local PC
+git clone https://github.com/akshay-b-prasad/PythonMiniProjects.git
+
+To update the local PC
+git pull
+
+To add new files
+git add GitCheatSheet.txt
+
+To commit changes
+git commit -m "Added Cheat Sheet" GitCheatSheet.txt
+
+To push your chnages
+git push -u origin main 
