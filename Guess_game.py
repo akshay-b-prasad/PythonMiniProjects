@@ -9,8 +9,8 @@ while True:
 
 	print('\n'+'Well ' + name + ', I am thinking of a number between 1 and 20')
 	secretNumber = random.randint(1,20)
-
-	for GuessTaken in range(1, 7):
+	print("You get 4 Guesses to Guess the number")
+	for GuessTaken in range(1, 5):
 		print('Take a guess')
 		try:
 			Guess = int(input())
